@@ -1,0 +1,130 @@
+body{
+    margin: 0%;
+}
+h1{
+    font-size: 45px;
+}
+p{
+    font-size: 20px;
+}
+button{
+    font-size: 20px;
+    background-color: rgb(255, 71, 95);
+    padding: 10px 10px;
+    color: white;
+    border-style: none;
+    border-radius: 5px;
+}
+.header-top{
+    background-image: url(image/background\ image.jpg);
+    height: 500px;
+    background-size: cover;
+    color: white;
+    padding-left: 15%;
+    padding-top: 15%;
+}
+.donation-iteam{
+    display: flex;
+    justify-content: center;
+}
+.donation-iteam2{
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+.donation-title{
+    padding-top: 5%;
+    padding-right: 20px;
+    padding-left: 40px;
+}
+.donation-media{
+    padding-left: 10%;
+}
+.Namaz-img{
+    margin-right:10%;
+}
+.survive-title{
+    padding-top: 10px;
+    padding-left:25px;
+}
+.depend-title{
+    text-align: center;
+}
+.direct-help{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 350px;
+    padding: 0px 20px;
+}
+.bg-color1{
+    background-color: rgba(182, 231, 215, 0.692);
+    display: flex;
+    margin-right: 20px;
+}
+.bg-color1 i{
+    text-align: center;
+    margin-top: 60px;
+    height: 100px;
+    width: 100px;
+    font-size: 80px;
+    padding: 0px 10px;
+}
+.bg-color1-text{
+    padding: 10px 20px;
+    width: 350px;
+}
+.bg-color2{
+    background-color: rgba(182, 231, 215, 0.692);
+    display: flex;
+    margin-left: 20px;
+}
+.bg-color2 i{
+    text-align: center;
+    margin-top: 60px;
+    height: 100px;
+    width: 100px;
+    font-size: 80px;
+    padding: 0px 10px; 
+}
+.bg-color2-text{
+    padding: 10px 20px;
+    width: 350px;
+}
+.image-title{
+    display: flex;
+    justify-content: center;
+}
+.image-title img{
+    padding: 0px 40px;
+}
+.fund-title{
+    text-align: center;
+}
+.fund-box{
+    display: flex;
+    justify-content:center ;
+}
+.fund-image{
+    margin-right:30px;
+    background-color: aquamarine;
+    border-radius: 10px;
+    text-align: center;
+    padding-bottom: 10px;
+}
+.fund-image2{
+    background-color: aquamarine;
+    border-radius: 10px;
+    text-align: center;
+}
+.fund-image3{
+    margin-left: 30px;
+    background-color: aquamarine;
+    border-radius: 10px;
+    text-align: center;
+}
+footer{
+    text-align: center;
+    background-color: blueviolet;
+    height: 120px;
+}
